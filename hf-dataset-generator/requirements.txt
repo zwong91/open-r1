@@ -1,8 +1,0 @@
-numpy
-pandas
-datasets
-transformers
-requests
-openai
-tqdm
-huggingface_hub
